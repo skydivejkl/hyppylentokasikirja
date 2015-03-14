@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Hyppylentokäsikirja](README.md)
 * [Yleistä](yleista/README.md)
 * [Valmistautuminen](valmistautuminen/README.md)
 * [Lento](lento/README.md)
